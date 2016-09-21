@@ -8,5 +8,30 @@
        <p>
        Dwyane grown up on the westside of chicago where most of the crime takes place. His mom was sprung up on drugs at the time and some of this family were in gangs and wanted him to be in the gang with them. But Dwyane had a dream which took him from middle school through high school which lead him to get drafted in the 2003 NBA draft and he was drafted to the Miami Heat.
         </p>
+          <div class="player-bio"><div class="line-divider"></div>
+            <ul class="general-info">
+                 <li class="first">#3 SG</li>
+                    <li>6' 4", 220 lbs</li>
+                    <li class="last">
+                        <a href="http://www.espn.com/nba/team/_/name/chi/chicago-bulls">Chicago Bulls</a>
+                    </li>
+            </ul>
+          <ul class="player-metadata floatleft">
+            <li>
+            <span>Born</span>
+            Jan 17, 1982 in Chicago, IL (Age: 34)  
+            </li>
+                <li>
+                <span>Drafted</span>
+                2003: 1st Rnd, 5th by MIA
+                </li>
+            <li>
+            <span>College</span>Marquette
+            </li>
+          <li>
+          <span>Experience</span>13 years
+          </li>
+          </ul>
+        </div>  
             <img src="http://img2.timeinc.net/people/i/2016/news/160704/dwayne-wade-435.jpg">
         
