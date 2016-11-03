@@ -6,9 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-      <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
 <nav class="navbar navbar-default">
@@ -19,7 +17,7 @@
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Home</a></li>
       <li><a href="#">Stats</a></li>
-      <li><a href="#">Pictures</a></li>
+      <li><a href="/pages/NBApage.html">Pictures</a></li>
       <li><a href="#">Coming Soon</a></li>
     </ul>
   </div>
@@ -36,7 +34,5 @@
         <p>
             The man can score 35 points in just the first half. If Michael Jordan and Dwyane play a one-on-one in their prime, Dwyane will win and I will bet some money on that game as well.
         </p>
-    </body>
+</body>
 </html>
-
-
