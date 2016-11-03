@@ -9,6 +9,17 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="/css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $(".btn1").click(function(){
+        $("p").fadeOut()
+    });
+    $(".btn2").click(function(){
+        $("p").fadeIn();
+    });
+});
+</script>
 </head>
 <body>
 <nav class="navbar navbar-default">
@@ -36,5 +47,8 @@
         <p>
             The man can score 35 points in just the first half. If Michael Jordan and Dwyane play a one-on-one in their prime, Dwyane will win and I will bet some money on that game as well.
         </p>
+        <p>To see the background picture press this button.</p>
+    <button class="btn1">Fade out</button>
+    <button class="btn2">Fade in</button>
 </body>
 </html>
